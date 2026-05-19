@@ -485,12 +485,10 @@ body{
   color: #0d2a4c;
   line-height: 1.3;
   overflow: hidden;
-  display: inline-block;
   animation: slideText 2s ease;
 }
 
 .about-title span{
-  display: inline-block;
   color: #3d6fa3;
   animation: glowText 2s ease-in-out infinite alternate;
 }
