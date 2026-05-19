@@ -474,8 +474,7 @@ body{
   color: #3d6fa3;
   font-weight: 700;
   margin-bottom: 10px;
-  letter-spacing: 3px;
-  display: inline-block;
+  letter-spacing: 3px;
   animation: fadeSubtitle 1.2s ease;
   text-transform: uppercase;
 }
